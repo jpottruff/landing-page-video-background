@@ -1,7 +1,7 @@
 # Landing Page with Video Background
 
 ## Overview
-Boilerplate landing page with video background, social links, and menu. Social/Menu images could easily be swapped out for and icon font or something similar. Inspired by [this tutorial](https://www.youtube.com/watch?v=8MgpE2DTTKA) with some tweaks.
+Boilerplate landing page with video background, social links, and menu. Social/Menu images could easily be swapped out for an icon font or something similar. Inspired by [this tutorial](https://www.youtube.com/watch?v=8MgpE2DTTKA) with some tweaks.
 
 ## Resources:
 - [Google Fonts](https://fonts.google.com/) / [Poppins Font](https://fonts.google.com/specimen/Poppins)
