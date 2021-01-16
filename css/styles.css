@@ -67,16 +67,18 @@
 .toggle {
     width: 60px;
     height: 60px;
+}
 
-    /* .PNG MENU */
+/* .PNG MENU */
+.toggle.png-menu {
     background: url('../assets/image/menu/menu.png');
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center;
 }
 
-.toggle.active {
-    /* .PNG CLOSE */
+/* .PNG CLOSE */
+.toggle.png-menu.active {
     background: url('../assets/image/menu/close.png');
     background-repeat: no-repeat;
     background-size: 25px;
@@ -165,12 +167,21 @@
 .social li a {
     display: inline-block;
     
-    /* .PNG SOCIAL ICONS */
     margin-right: 20px;
     transform: scale(0.5);
-    filter: invert(1);
 
     transition: 0.5s;
+}
+
+/* .PNG SOCIAL ICONS */
+.social li a.png-icon {
+    filter: invert(1);
+}
+
+/* IONICON ICON FONT */
+.social li a ion-icon {
+    font-size: 3.5em;
+    color: var(--white);
 }
 
 .social li a:hover {
